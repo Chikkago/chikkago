@@ -1,4 +1,4 @@
-## Beginner Mobile Developer and Software Engineer
+## Programming is my hobby, but at heart I'm a Sorcerer
 
 [![Header](https://github.com/Chikkago/chikkago/blob/main/assets/header.png)](https://vk.com/mr.integral)
 
