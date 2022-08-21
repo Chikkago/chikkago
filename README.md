@@ -1,6 +1,6 @@
 ## I'm a beginner Mobile Developer and Software Engineer
 
-[![Header](https://github.com/Chikkago/chikkago/blob/main/assets/donni.gif)](https://vk.com/mr.integral)
+[![Header](https://github.com/Chikkago/chikkago/blob/main/assets/header.png)](https://vk.com/mr.integral)
 
 ### Language and Tools
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=CoffeeScript&logoColor=white)
