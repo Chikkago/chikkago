@@ -10,4 +10,4 @@
 ![Kali_Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=KaliLinux&logoColor=white&logoWidth=12)
 ![0E2E1A0E2E2E0E2E1C](https://img.shields.io/badge/0E2E1A0E2E2E0E2E1C-black?style=for-the-badge&logo=Pastebin&logoColor=white)
 
-[![Donni's github stats](https://github-readme-stats.vercel.app/api?username=Donni&repo=github-readme-stats&show_icons=true&theme=radical&border_radius=15&locale=en&bg_color=141321&include_all_commits=true&custom_title=Donni&count_private=true)](https://github.com/Chikkago)
+[![Donni's github stats](https://github-readme-stats.vercel.app/api?username=Donni&repo=github-readme-stats&show_icons=true&theme=radical&border_radius=15&locale=en&&custom_title=Donni&count_private=true)](https://github.com/Chikkago)
