@@ -19,4 +19,4 @@
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white)
 ![React_Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=React&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Kali_Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=KaliLinux&logoColor=white&logoWidth=12)
+![Kali_Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=KaliLinux&logoColor=white&logoWidth=12) ![0E2E1A0E2E2E0E2E1C](https://img.shields.io/badge/0E2E1A0E2E2E0E2E1C-black?style=for-the-badge&logo=Pastebin&logoColor=white)
