@@ -13,8 +13,6 @@
 [![Donni](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chikkago&theme=github_dark)](https://github.com/Chikkago)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=04DA13&width=435&lines=Language+and+tools)](https://vk.com/mr.integral)
 
-[![codewars](https://www.codewars.com/users/Chikkago/badges/large)](https://www.codewars.com/users/Chikkago)
-
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=CoffeeScript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white)
 ![React_Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=React&logoColor=white)
