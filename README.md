@@ -1,6 +1,6 @@
 ## Programming is my hobby, but at heart I'm a Sorcerer
 
-[Imgur](https://i.imgur.com/5uuGJin.gifv)
+<iframe class="imgur-embed" width="100%" height="800" frameborder="0" src="https://i.imgur.com/5uuGJin.gifv#embed"></iframe>
 
 ---
 [![Donni's trophy](https://github-profile-trophy.vercel.app/?username=Chikkago&ryo-ma&no-bg=true&margin-w=3&column=-1&theme=matrix&no-frame=true)](https://github.com/Chikkago)
