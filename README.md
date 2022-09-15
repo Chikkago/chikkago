@@ -1,6 +1,6 @@
 ## Programming is my hobby, but at heart I'm a Sorcerer
 
-[![Header](https://github.com/Chikkago/chikkago/blob/main/assets/Donni_banner.gif)](https://vk.com/mr.integral)
+[![Header](https://github.com/Chikkago/chikkago/blob/main/assets/Donni_banner.gif)]
 ---
 [![Donni's trophy](https://github-profile-trophy.vercel.app/?username=Chikkago&ryo-ma&no-bg=true&margin-w=3&column=-1&theme=matrix&no-frame=true)](https://github.com/Chikkago)
 ---
