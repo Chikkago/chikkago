@@ -1,6 +1,7 @@
 ## Programming is my hobby, but at heart I'm a Sorcerer
 
-![Header](https://github.com/Chikkago/chikkago/blob/main/assets/Donni_banner.gif)
+<img src="./assets/Donni_banner.gif"/>
+
 ---
 [![Donni's trophy](https://github-profile-trophy.vercel.app/?username=Chikkago&ryo-ma&no-bg=true&margin-w=3&column=-1&theme=matrix&no-frame=true)](https://github.com/Chikkago)
 ---
@@ -34,4 +35,5 @@
 ![Dungeons & Dragons](https://img.shields.io/badge/Dungeons_&_Dragons-black?style=for-the-badge&logo=dungeonsanddragons&logoColor=red)
 ![0E2E1A0E2E2E0E2E1C](https://img.shields.io/badge/0E2E1A0E2E2E0E2E1C-black?style=for-the-badge&logo=Pastebin&logoColor=white)
 ---
+
 
