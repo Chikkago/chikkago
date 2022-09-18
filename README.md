@@ -5,7 +5,7 @@
 ---
 [![Donni's trophy](https://github-profile-trophy.vercel.app/?username=Chikkago&ryo-ma&no-bg=true&margin-w=3&column=-1&theme=matrix&no-frame=true)](https://github.com/Chikkago)
 ---
-[![Donni's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chikkago&theme=chartreuse-dark&line=036936&custom_title=I%20said%20that%20I%20am%20a%20sorcerer&radius=15)](https://github.com/Chikkago)
+[![Donni's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chikkago&theme=chartreuse-dark&line=036936&custom_title=Sorcerer&radius=15)](https://github.com/Chikkago)
 ---
 [![Donni](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chikkago&theme=github_dark)](https://github.com/Chikkago)
 ---
