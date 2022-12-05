@@ -1,6 +1,6 @@
 ## Programming is my hobby, but at heart I'm a Sorcerer
 
-[![Donni](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chikkago&theme=github_dark)](https://github.com/Chikkago)<img src="https://profile-counter.glitch.me/Chikkago/count.svg" />
+[![Donni](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chikkago&theme=github_dark)](https://github.com/Chikkago)
 
 
 ```mermaid
@@ -37,6 +37,7 @@ erDiagram
 ![Obsidian](https://img.shields.io/badge/Obsidian-black?style=for-the-badge&logo=Obsidian&logoColor=483699)
 ![Dungeons & Dragons](https://img.shields.io/badge/Dungeons_&_Dragons-black?style=for-the-badge&logo=dungeonsanddragons&logoColor=red)
 ![0E2E1A0E2E2E0E2E1C](https://img.shields.io/badge/0E2E1A0E2E2E0E2E1C-black?style=for-the-badge&logo=Pastebin&logoColor=white)
+<img src="https://profile-counter.glitch.me/Chikkago/count.svg" />
 ---
 
 
