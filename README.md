@@ -1,6 +1,7 @@
 ## Programming is my hobby, but at heart I'm a Sorcerer
 
-[![Donni](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chikkago&theme=github_dark)](https://github.com/Chikkago)
+[![Donni](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chikkago&theme=github_dark)](https://github.com/Chikkago)<img src="https://profile-counter.glitch.me/Chikkago/count.svg" />
+
 
 ```mermaid
 erDiagram
