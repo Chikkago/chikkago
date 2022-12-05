@@ -5,13 +5,13 @@
 ```mermaid
 erDiagram
     M16XZ-FUTURI }|..|{ SCRIPTOR-VITAE-TUAE : repetio
-    M16XZ-FUTURI ||--o{ TECHNICAE-ARTIS : kz-sh-11_0_11etpl2
-    M16XZ-FUTURI ||--o{ TIMOR : "manere"
-    SCRIPTOR-VITAE-TUAE ||--o{ TECHNICAE-ARTIS : dolor-tempor
+    M16XZ-FUTURI ||--|{ TECHNICAE-ARTIS : kz-sh-11_0_11etpl2
+    M16XZ-FUTURI ||--|{ TIMOR : "manere"
+    SCRIPTOR-VITAE-TUAE ||--|{ TECHNICAE-ARTIS : dolor-tempor
     TIMOR ||--|{ TECHNICAE-ARTIS : Spiritus
     TECHNICAE-ARTIS ||--|{ RATIO : spes
     d25-05-2004 ||--|{ AEDES : Satus
-    AEDES ||--o{ RATIO : "aliena vita"
+    AEDES ||--|{ RATIO : "aliena vita"
 ```
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=CoffeeScript&logoColor=orange)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=blue)
