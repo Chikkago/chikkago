@@ -1,15 +1,8 @@
 ## Programming is my hobby, but at heart I'm a Sorcerer
 
-![](https://github.com/Chikkago/chikkago/blob/main/assets/Donni_banner.gif)
-
----
-[![Donni's trophy](https://github-profile-trophy.vercel.app/?username=Chikkago&ryo-ma&no-bg=true&margin-w=3&column=-1&theme=matrix&no-frame=true)](https://github.com/Chikkago)
----
-[![Donni's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chikkago&theme=chartreuse-dark&line=036936&custom_title=Sorcerer&radius=15)](https://github.com/Chikkago)
----
 [![Donni](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chikkago&theme=github_dark)](https://github.com/Chikkago)
----
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=04DA13&width=435&lines=Language+and+tools)](https://vk.com/mr.integral)
+
+[![](https://mermaid.ink/img/pako:eNp9ktFqwyAUhl9FznUtSVl3kbvQZsyLriOxY5RAkXq2SpMoxgy2pO8-06QrjG7eqd_3e_TYwl5LhAjQLpV4t6LMK-LHKrx_3dKHDd-kjJy66bRrSbZI2TNfp_SF8TihfBMnJCIWDTqlb2hdR6luCU8Wj09s4Y045SzzyvGL1gcahrtgF4boTDH7x2ardeqdHEpRocUcBvZWMX8eKHWhLXVYGm0HfYjthe6WkBlllWvqEf61P2ppzNnaw7XBEZSzOQ3mdBYEdxcoTpbJOVH8xA1LY7GXkBxEobAS5EM5kQNMoERbCiV9b9rey8EdsPT371kp7LF_iZPnRON09lntIXK2wQk0RgqHYzchehNF7VeNqLZaX-coldN2NTT__AdO32Ylnj0?type=png)](https://mermaid.live/edit#pako:eNp9ktFqwyAUhl9FznUtSVl3kbvQZsyLriOxY5RAkXq2SpMoxgy2pO8-06QrjG7eqd_3e_TYwl5LhAjQLpV4t6LMK-LHKrx_3dKHDd-kjJy66bRrSbZI2TNfp_SF8TihfBMnJCIWDTqlb2hdR6luCU8Wj09s4Y045SzzyvGL1gcahrtgF4boTDH7x2ardeqdHEpRocUcBvZWMX8eKHWhLXVYGm0HfYjthe6WkBlllWvqEf61P2ppzNnaw7XBEZSzOQ3mdBYEdxcoTpbJOVH8xA1LY7GXkBxEobAS5EM5kQNMoERbCiV9b9rey8EdsPT371kp7LF_iZPnRON09lntIXK2wQk0RgqHYzchehNF7VeNqLZaX-coldN2NTT__AdO32Ylnj0)
 
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=CoffeeScript&logoColor=orange)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=blue)
