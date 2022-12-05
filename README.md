@@ -2,8 +2,23 @@
 
 [![Donni](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chikkago&theme=github_dark)](https://github.com/Chikkago)
 
-[![](https://mermaid.ink/img/pako:eNp9ktFqwyAUhl9FznUtSVl3kbvQZsyLriOxY5RAkXq2SpMoxgy2pO8-06QrjG7eqd_3e_TYwl5LhAjQLpV4t6LMK-LHKrx_3dKHDd-kjJy66bRrSbZI2TNfp_SF8TihfBMnJCIWDTqlb2hdR6luCU8Wj09s4Y045SzzyvGL1gcahrtgF4boTDH7x2ardeqdHEpRocUcBvZWMX8eKHWhLXVYGm0HfYjthe6WkBlllWvqEf61P2ppzNnaw7XBEZSzOQ3mdBYEdxcoTpbJOVH8xA1LY7GXkBxEobAS5EM5kQNMoERbCiV9b9rey8EdsPT371kp7LF_iZPnRON09lntIXK2wQk0RgqHYzchehNF7VeNqLZaX-coldN2NTT__AdO32Ylnj0?type=png)](https://mermaid.live/edit#pako:eNp9ktFqwyAUhl9FznUtSVl3kbvQZsyLriOxY5RAkXq2SpMoxgy2pO8-06QrjG7eqd_3e_TYwl5LhAjQLpV4t6LMK-LHKrx_3dKHDd-kjJy66bRrSbZI2TNfp_SF8TihfBMnJCIWDTqlb2hdR6luCU8Wj09s4Y045SzzyvGL1gcahrtgF4boTDH7x2ardeqdHEpRocUcBvZWMX8eKHWhLXVYGm0HfYjthe6WkBlllWvqEf61P2ppzNnaw7XBEZSzOQ3mdBYEdxcoTpbJOVH8xA1LY7GXkBxEobAS5EM5kQNMoERbCiV9b9rey8EdsPT371kp7LF_iZPnRON09lntIXK2wQk0RgqHYzchehNF7VeNqLZaX-coldN2NTT__AdO32Ylnj0)
+```
+flowchart LR
 
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
+
+```mermaid
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=CoffeeScript&logoColor=orange)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=blue)
 ![React_Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=React)
