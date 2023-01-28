@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Chikkago">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Programming%20is%20my%20hobby;But%20at%20heart%20I'm%20a%20Sorcerer&font=Ubuntu&center=true&width=440&height=60&color=30AC45FF&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Programming%20is%20my%20hobby;But%20at%20heart%20I'm%20a%20Sorcerer+🧙🏼‍♂️&font=Ubuntu&center=true&width=440&height=60&color=30AC45FF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <details> 
