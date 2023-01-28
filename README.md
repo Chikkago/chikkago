@@ -1,10 +1,26 @@
-## Programming is my hobby, but at heart I'm a Sorcerer
+<p align="center">
+  <a href="https://github.com/Chikkago">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Programming%20is%20my%20hobby;But%20at%20heart%20I'm%20a%20Sorcerer&font=Ubuntu&center=true&width=440&height=60&color=30AC45FF&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
-![Donni](https://gers2017-readme.vercel.app/api/card?username=Chikkago&cache_seconds=999&theme=glitch)
+<details> 
+  <summary><h2>m13zm.dat</h2></summary>
 
-[![Donni](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chikkago&theme=github_dark&)](https://github.com/Chikkago)
+  <p>
+    <a href="https://github.com/Chikkago">
+      <img alt="Donni's streak" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chikkago&theme=github_dark"/>
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/Chikkago">
+      <img alt="Donni's commits" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chikkago&theme=github_dark"/>
+      <img alt="Donni's top languages by Repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chikkago&theme=github_dark"/>
+    </a>
+  </p>  
+  <p>
+  </p>
+</details>
 
-[![Donni](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chikkago&theme=github_dark)](https://github.com/Chikkago) [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chikkago&theme=github_dark)](https://github.com/Chikkago)
 
 
 
