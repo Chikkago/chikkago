@@ -1,9 +1,12 @@
 ## Programming is my hobby, but at heart I'm a Sorcerer
 
+![Donni](https://gers2017-readme.vercel.app/api/card?username=Chikkago&cache_seconds=999&theme=glitch)
+
 [![Donni](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chikkago&theme=github_dark&)](https://github.com/Chikkago)
 
-
 [![Donni](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chikkago&theme=github_dark)](https://github.com/Chikkago) [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chikkago&theme=github_dark)](https://github.com/Chikkago)
+
+
 
 ```mermaid
 erDiagram
