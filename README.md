@@ -4,7 +4,7 @@
 </p>
 
 <details> 
-  <summary><h2>m13zm.dat</h2></summary>
+  <summary><h2 align="center">m13zm.dat</h2></summary>
 
   <p>
     <a href="https://github.com/Chikkago">
