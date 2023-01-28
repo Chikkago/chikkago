@@ -2,9 +2,9 @@
   <a href="https://github.com/Chikkago">
     <img src="https://readme-typing-svg.demolab.com/?lines=☠ +Programming%20is%20my%20hobby+☠;🧙🏼‍♂️+But%20at%20heart%20I'm%20a%20Sorcerer+🧙🏼‍♂️&font=Ubuntu&center=true&width=440&height=60&color=30AC45FF&vCenter=true&pause=1000&size=26" /></a>
 </p>
-  <p>
-    <a href="">
-      <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=jirvj1odwzcd3e18qtwzg29gz&redirect=true"/>
+  <p align="center">
+    <a href="https://open.spotify.com/user/maim4bbgl2os9896xsbczwzu2?si=ab640329cefc4c36">
+      <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=maim4bbgl2os9896xsbczwzu2&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false"/>
     </a>
   </p>
 <details> 
