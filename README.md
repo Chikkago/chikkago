@@ -3,8 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=☠ +Programming%20is%20my%20hobby+☠;🧙🏼‍♂️+But%20at%20heart%20I'm%20a%20Sorcerer+🧙🏼‍♂️&font=Ubuntu&center=true&width=440&height=60&color=30AC45FF&vCenter=true&pause=1000&size=26" /></a>
 </p>
   <p>
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=jirvj1odwzcd3e18qtwzg29gz&redirect=true">
-      <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=jirvj1odwzcd3e18qtwzg29gz&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false"/>
+    <a href="">
+      <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=jirvj1odwzcd3e18qtwzg29gz&redirect=true"/>
     </a>
   </p>
 <details> 
