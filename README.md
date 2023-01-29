@@ -5,18 +5,17 @@
   
 <details> 
   <summary><h2>m13zm.dat</h2></summary>
-
+  <p align="center">
+    <a href="https://open.spotify.com/user/maim4bbgl2os9896xsbczwzu2?si=ab640329cefc4c36">
+      <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=maim4bbgl2os9896xsbczwzu2&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false"/>
+    </a>
+  </p>
   <p>
     <a href="https://github.com/Chikkago">
       <img alt="Donni's streak" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chikkago&theme=github_dark"/>
     </a>
   </p>
   <p>
-  <p align="center">
-    <a href="https://open.spotify.com/user/maim4bbgl2os9896xsbczwzu2?si=ab640329cefc4c36">
-      <img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=maim4bbgl2os9896xsbczwzu2&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false"/>
-    </a>
-  </p>
     <a href="https://github.com/Chikkago">
       <img alt="Donni's commits" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chikkago&theme=github_dark"/>
       <img alt="Donni's top languages by Repo" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chikkago&theme=github_dark"/>
