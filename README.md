@@ -25,7 +25,7 @@
   </p>
 </details>
 <p align="center">
-  <img src="https://count.getloli.com/get/@Donni" alt="https://github.com/Chikkago"/>
+  <img src="https://count.getloli.com/get/@Donni?theme=rule34" alt="https://github.com/Chikkago"/>
 </p>
 
 ```mermaid
