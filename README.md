@@ -26,7 +26,7 @@
 </details>
 <p align="center">
   <img src="https://count.getloli.com/get/@Donni" alt="https://github.com/Chikkago"/>
-</p
+</p>
 
 ```mermaid
 erDiagram
