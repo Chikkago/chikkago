@@ -25,8 +25,7 @@
   </p>
 </details>
 
-
-[![Neko](https://count.getloli.com/get/@Donni?theme=rule34)](https://github.com/Chikkago)
+<img align="center" src="https://count.getloli.com/get/@Donni" alt="https://github.com/Chikkago"/>
 
 ```mermaid
 erDiagram
